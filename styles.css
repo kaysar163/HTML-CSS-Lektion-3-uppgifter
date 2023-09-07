@@ -1,0 +1,22 @@
+/* CSS-stilar för Min Webbplats */
+
+/* Överskrid alla h1-element med en färg */
+h1 {
+    color: blue;
+}
+
+/* Skapa en klass med en unik färg */
+.meny-lank {
+    color: green;
+}
+
+/* Skapa ett id med en unik färg */
+#unik-id {
+    color: red;
+}
+
+/* Ge specialklassen en unik färg */
+.special {
+    background-color: yellow;
+    color: black;
+}
